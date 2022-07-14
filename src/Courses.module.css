@@ -1,0 +1,21 @@
+.coursesContainer{
+    width: 100%;
+    padding: 30px;
+}
+.backHome{
+    padding: 10px 20px;
+    background-color: black;
+    color: white;
+    border: none;
+    border-radius: 5px;
+}
+.courses{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.courseName{
+    background-color: green;
+    padding: 10px 20px;
+    border-radius: 5px;
+}
